@@ -138,7 +138,11 @@
     line-height: 40px;
   }
 }
-
+@media screen and (max-width: 475px) {
+  .gpt3__whatgpt3 {
+    margin: 1rem 0;
+  }
+}
 @media screen and (max-width: 350px) {
   /* Customizing feature component as per needs */
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
