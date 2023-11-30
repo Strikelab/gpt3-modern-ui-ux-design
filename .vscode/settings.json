@@ -31,7 +31,7 @@
   "editor.smoothScrolling": true,
   "explorer.confirmDelete": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Atom One Dark",
   "git.autofetch": true,
   "editor.tabSize": 2
 }
